@@ -13,7 +13,7 @@ set t_Co=256
 set showcmd
 
 "my vimrc
-
+"I use plug (plug manager) and vim-gtk3 to enable copy and paste to clipboard
 syntax on
 set tabstop=4
 set shiftwidth=4
