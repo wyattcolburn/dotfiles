@@ -24,7 +24,7 @@ set number
 set mouse=a
 let mapleader = " "
 
-" Specify a directory for plugins
+" Specify a directory for plugin s
 call plug#begin('~/.vim/plugged')
 
 
